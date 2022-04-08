@@ -1,0 +1,21 @@
+[19-Jan-2022 13:01:46 UTC] PHP Warning:  require_once(/home/fiqliwf57e4b/public_html/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/fiqliwf57e4b/public_html/public/index.php on line 47
+[19-Jan-2022 13:01:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/fiqliwf57e4b/public_html/public/../bootstrap/app.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fiqliwf57e4b/public_html/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/fiqliwf57e4b/public_html/public/index.php on line 47
+[19-Jan-2022 13:01:49 UTC] PHP Warning:  require_once(/home/fiqliwf57e4b/public_html/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/fiqliwf57e4b/public_html/public/index.php on line 47
+[19-Jan-2022 13:01:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/fiqliwf57e4b/public_html/public/../bootstrap/app.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fiqliwf57e4b/public_html/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/fiqliwf57e4b/public_html/public/index.php on line 47
+[19-Jan-2022 13:02:14 UTC] PHP Warning:  require_once(/home/fiqliwf57e4b/public_html/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/fiqliwf57e4b/public_html/public/index.php on line 47
+[19-Jan-2022 13:02:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/fiqliwf57e4b/public_html/public/../bootstrap/app.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fiqliwf57e4b/public_html/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/fiqliwf57e4b/public_html/public/index.php on line 47
+[19-Jan-2022 13:02:24 UTC] PHP Warning:  require_once(/home/fiqliwf57e4b/public_html/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/fiqliwf57e4b/public_html/public/index.php on line 47
+[19-Jan-2022 13:02:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/fiqliwf57e4b/public_html/public/../bootstrap/app.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fiqliwf57e4b/public_html/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/fiqliwf57e4b/public_html/public/index.php on line 47
+[20-Mar-2022 07:45:30 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.26. in /home/i4snij9kof7v/public_html/climbingmgt.com/vendor/composer/platform_check.php on line 24
